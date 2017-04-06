@@ -1,6 +1,6 @@
-# Seven Nation Army by White Stripes in Haskell
+# Seven Nation Army by The White Stripes in Haskell
 
-This project is basicly a song "Seven Nation Army" by the White Stripes programmed in Haskell.
+This project is basicly a song written by The White Stripes called "Seven Nation Army", programmed in Haskell.
 File "sevennation.hs" contains the code.
 
 If you wonder how come that you can program a song using Haskell, check out the package called [Euterpea](http://www.euterpea.com/).
@@ -27,6 +27,5 @@ This project is based on Euterpea.
 play music
 ```
 5. Enjoy!
-
 
 I hope this project will deliver you some fun.
