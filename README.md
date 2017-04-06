@@ -22,6 +22,10 @@ This project is based on Euterpea.
 ```
 :l sevennation.hs
 ```
-4. Type in "play music"!
+4. Type in 
+```
+play music
+```
+
 
 I hope this project will deliver you some fun.
