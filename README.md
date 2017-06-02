@@ -1,4 +1,4 @@
-# Seven Nation Army by The White Stripes in Haskell
+# Seven Nation Army by The White Stripes in Haskell + Euterpea tutorial
 
 ## Setup and basic informations
 
@@ -37,7 +37,7 @@ I hope this project will deliver you some fun.
 ### Introdution
 
 If you want to use Euterpea, you need to know how to read notes. Unfortunately, you can't pass it. You have to know the basics.
-If you don't know it and still wanna try, it is possible to do it mechanicaly (if you want just to rewrite the notes you found on the Internet). Here is your cheat sheet:
+If you don't know it and still wanna try, it is possible to do it mechanicaly (if you want just to rewrite the notes that you found on the Internet). Here is your cheat sheet:
 
 [- How to read notes](http://www.musicnotes.com/blog/2014/04/11/how-to-read-sheet-music/)
 [- Rhythmic values](http://ezstrummer.com/ezriffs/demo/notes_rests.gif)
