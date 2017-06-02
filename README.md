@@ -40,7 +40,9 @@ If you want to use Euterpea, you need to know how to read notes. Unfortunately, 
 If you don't know it and still wanna try, it is possible to do it mechanicaly (if you want just to rewrite the notes that you found on the Internet). Here is your cheat sheet:
 
 [- How to read notes](http://www.musicnotes.com/blog/2014/04/11/how-to-read-sheet-music/)
+
 [- Rhythmic values](http://ezstrummer.com/ezriffs/demo/notes_rests.gif)
+
 [- Notes names](http://plankchoir.weebly.com/uploads/1/4/2/7/14279649/756817385.gif)
 
 In the further part, I assume that you know the basics of writing notes.
