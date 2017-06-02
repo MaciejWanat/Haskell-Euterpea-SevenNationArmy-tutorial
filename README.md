@@ -1,4 +1,4 @@
-# Seven Nation Army by The White Stripes in Haskell + Euterpea tutorial
+# Seven Nation Army in Haskell + Euterpea tutorial
 
 ## Setup and basic informations
 
@@ -87,7 +87,7 @@ But with the cons comes the pros - you are writing in Haskell, so you can define
 So if you want to define a tact, you need to simply assign it to the variable
 
 ```
-tact1 = e 3 dqn :+: e 3 en :+: g 3 den :+: e 3 den :+: d 3 en --tact 1
+tact1 = e 3 dqn :+: e 3 en :+: g 3 den :+: e 3 den :+: d 3 en 
 ```	
 
 That's a definition of an example 4/4 tact. 
